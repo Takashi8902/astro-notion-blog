@@ -1,5 +1,4 @@
 name: Deploy
-
 on:
   # 毎日19:00に自動的に実行する(日本時間19時に投稿するには10時にする) https://zenn.dev/yu_9/scraps/dd74dd88b27636
   schedule:
