@@ -5,7 +5,6 @@ on:
     - cron: '00 10 * * *'
   workflow_dispatch:
 
-
 jobs:
   curl:
     name: Kick deploy hook
